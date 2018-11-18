@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My-Journey-With\\csharp-math-methods-and-numericals\\mathematic-methods\\mathematic-methods.csproj",
-      "projectName": "mathematic-methods",
-      "projectPath": "D:\\My-Journey-With\\csharp-math-methods-and-numericals\\mathematic-methods\\mathematic-methods.csproj",
+      "projectUniqueName": "d:\\My-Journey-With\\csharp-math-methods-and-numericals\\Mathematicals\\Mathematicals.csproj",
+      "projectName": "Mathematicals",
+      "projectPath": "d:\\My-Journey-With\\csharp-math-methods-and-numericals\\Mathematicals\\Mathematicals.csproj",
       "packagesPath": "C:\\Users\\Mileva\\.nuget\\packages\\",
-      "outputPath": "D:\\My-Journey-With\\csharp-math-methods-and-numericals\\mathematic-methods\\obj\\",
+      "outputPath": "d:\\My-Journey-With\\csharp-math-methods-and-numericals\\Mathematicals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

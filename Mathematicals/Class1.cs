@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace mathematic_methods
+namespace Mathematicals
 {
     public class Class1
     {
